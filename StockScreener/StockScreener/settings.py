@@ -25,7 +25,7 @@ SECRET_KEY = '(_&3u(#x$lmw&c$h&a_xtkbg=kbh^@z&85ckv$tyf9e+_7ann#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["infheistim-marksparkyryan941757.codeanyapp.com"]
 
 
 # Application definition
